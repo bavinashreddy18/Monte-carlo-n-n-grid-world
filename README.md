@@ -1,6 +1,6 @@
 # Monte carlo:- n*n grid world
 
-## ***Developers*** 👦👧👦
+## ***Developers*** 👦👦
                 1. Murukuri S V S V Vasanth (College🏛️: IIIT NAYA RAIPUR,✉️- murukuri20102@iiitnr.edu.in)
                 3. B.Avinash Reddy (College🏛️: IIIT NAYA RAIPUR,✉️- bavinashreddy18@gmail.com)
 # Reinforcement-Learning-technique:- 10*10 Gridworld using Monte Carlo
