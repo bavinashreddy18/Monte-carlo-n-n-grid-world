@@ -1,4 +1,7 @@
 # Monte carlo:- n*n grid world
+<p align="center">
+  <img width="380" height="270" src="https://github.com/bavinashreddy18/Monte-carlo-n-n-grid-world/edit/main/README.md">
+  </p>
 
 ## ***Developers*** 👦👦
                 1. Murukuri S V S V Vasanth (College🏛️: IIIT NAYA RAIPUR,✉️- murukuri20102@iiitnr.edu.in)
