@@ -12,7 +12,7 @@
                  goal state. By using reinforcement learning monte carlo algorithm, we computed the optimum policy
                  for agent to reach goal state from a starting point. Here policy is stochastic nature and implemented 
                  in python.
-# Reinforcement-Learning-technique:- 10*10 Gridworld using Monte Carlo
+# Reinforcement-Learning-technique:- 10*10 Gridworld using Monte carlo in python
   Solving a simple 10*10 Gridworld almost similar to openAI gym frozenlake using Monte-Carlo method Reinforcement Learning
   the method used is policy iteration whitch is one of fundamental manners of Dynamic Programing.  
 
